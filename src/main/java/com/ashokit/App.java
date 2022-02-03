@@ -11,5 +11,6 @@ public class App
         System.out.println( "Hello World!" );
         int a=90;
 	int b = 100;
+	int c=10;
     }
 }
