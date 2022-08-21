@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;com.ashok._maven_app&apos; to &apos;com.ashokit&apos;&#x0D;&#x0A;- Original project: &apos;01-maven-app&apos;&#x0D;&#x0A;- Original element: &apos;01-maven-app/src/main/java/com.ashok._maven_app&apos;&#x0D;&#x0A;- Renamed element: &apos;01-maven-app/src/main/java/com.ashokit&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;com.ashok._maven_app&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.ashok._maven_app" name="com.ashokit" qualified="false" references="true" stamp="1642663017900" textual="false" version="1.0"/>
+</session>

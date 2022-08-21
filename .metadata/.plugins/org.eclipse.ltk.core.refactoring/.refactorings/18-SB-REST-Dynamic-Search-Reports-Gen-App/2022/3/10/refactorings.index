@@ -1,0 +1,10 @@
+1646413301980	Rename type 'InsurancePlans'
+1646413574701	Copy compilation unit
+1646413579451	Delete element
+1646450539139	Rename package 'in.ashokit.bindings'
+1646450588361	Rename package 'in.ashokit.bindings.search'
+1646474193681	Rename type 'InsPlansRestController'
+1646476802285	Rename type 'InsPlansEntity'
+1646476971813	Rename type 'InsPlansRepository'
+1646477360653	Rename type 'InsPlansService'
+1646477746002	Rename type 'InsPlansServiceImpl'

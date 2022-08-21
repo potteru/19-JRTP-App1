@@ -1,0 +1,16 @@
+server:
+  port: 9090
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    password: '07232'
+    url: jdbc:mysql://localhost:3306/sms
+    username: root
+  jpa:
+    hibernate:
+      ddl-auto: update
+
+unlock-app:
+ messages:
+  accUnlockSuccess: Your account Unlocked successfully
+  invalidTempPwd: Invalid Temparary Password

@@ -1,0 +1,1 @@
+INDEX VERSION 1.4+D:\User\admin\sts_eclips_work_19JRTP\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes

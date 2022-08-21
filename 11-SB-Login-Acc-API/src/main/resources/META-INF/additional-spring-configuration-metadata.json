@@ -1,0 +1,37 @@
+{"properties": [
+  {
+    "name": "unlock-app.messages.reg-mail-subject",
+    "type": "java.lang.String",
+    "description": "A description for 'unlock-app.messages.reg-mail-subject'"
+  },
+  {
+    "name": "unlock-app.messages.regMailBodyTemplateFile",
+    "type": "java.lang.String",
+    "description": "A description for 'unlock-app.messages.regMailBodyTemplateFile'"
+  },
+  {
+    "name": "unlock-app.messages.accUnlockSuccess",
+    "type": "java.lang.String",
+    "description": "A description for 'unlock-app.messages.accUnlockSuccess'"
+  },
+  {
+    "name": "unlock-app.messages.invalidTempPwd",
+    "type": "java.lang.String",
+    "description": "A description for 'unlock-app.messages.invalidTempPwd'"
+  },
+  {
+    "name": "login-app.messages.acc-unlock-success",
+    "type": "java.lang.String",
+    "description": "A description for 'login-app.messages.acc-unlock-success'"
+  },
+  {
+    "name": "login-app.messages.invalidCredentials",
+    "type": "java.lang.String",
+    "description": "A description for 'login-app.messages.invalidCredentials'"
+  },
+  {
+    "name": "login-app.messages.accLocked",
+    "type": "java.lang.String",
+    "description": "A description for 'login-app.messages.accLocked'"
+  }
+]}

@@ -1,0 +1,17 @@
+server:
+  port: 9090
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    password: '07232'
+    url: jdbc:mysql://localhost:3306/sms
+    username: root
+  jpa:
+    hibernate:
+      ddl-auto: update
+
+login-app:
+ messages:
+  invalidCredentials: Your Credentials are  Invalid
+  accLocked: Your Account is locked
+  

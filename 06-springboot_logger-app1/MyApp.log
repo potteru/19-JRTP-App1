@@ -1,0 +1,6 @@
+2022-02-09 13:50:06,572 [main] INFO  com.ashokit.Application                            - Starting Application using Java 17.0.1 on DESKTOP-0I55OIL with PID 7796 (D:\User\admin\sts_eclips_work_19JRTP\06-springboot_logger-app1\target\classes started by admin in D:\User\admin\sts_eclips_work_19JRTP\06-springboot_logger-app1)
+2022-02-09 13:50:06,575 [main] INFO  com.ashokit.Application                            - No active profile set, falling back to default profiles: default
+2022-02-09 13:50:07,110 [main] INFO  com.ashokit.Application                            - Started Application in 0.97 seconds (JVM running for 1.783)
+2022-02-09 13:50:07,116 [main] INFO  com.ashokit.UserService                            - ***save method started***
+2022-02-09 13:50:07,116 [main] INFO  com.ashokit.UserDao                                - *** Record inserted into DB ***
+2022-02-09 13:50:07,116 [main] INFO  com.ashokit.UserService                            - ***save method ended***

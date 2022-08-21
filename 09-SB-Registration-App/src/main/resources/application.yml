@@ -1,0 +1,27 @@
+server:
+  port: 9090
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    password: '07232'
+    url: jdbc:mysql://localhost:3306/sms
+    username: root
+  jpa:
+    hibernate:
+      ddl-auto: update
+  mail:
+    host: smtp.gmail.com
+    password: 9008505003
+    port: 587
+    properties:
+      mail:
+        smtp:
+          auth: true
+          starttls:
+            enable: true
+    username: mcanrp@gmail.com
+
+reg-app:
+ messages:
+  regMailSubject: User Registration Success
+  regMailBodyTemplateFile: UNLOCK-ACC-EMAIL-BODY-TEMPLATE.txt

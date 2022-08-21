@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+D:\User\admin\sts_eclips_work_19JRTP\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index

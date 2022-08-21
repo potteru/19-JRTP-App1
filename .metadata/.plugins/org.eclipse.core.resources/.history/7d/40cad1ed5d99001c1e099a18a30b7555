@@ -1,0 +1,22 @@
+package in.ashokit.services;
+
+import org.springframework.stereotype.Service;
+
+import in.ashokit.bindings.User;
+
+@Service
+public interface RegistrationService {
+	
+	//public String getUserDetails(User user);
+	
+	//public String saveUser(User saveuser);
+	
+	//public void editUser(User userId);
+	
+	//public String deleteUser(User userId);
+	
+	
+	
+	
+
+}
